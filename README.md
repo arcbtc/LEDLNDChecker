@@ -1,4 +1,4 @@
-# LEDLNDChecker ## *Project cost $6*
+# LEDLNDChecker  *(Project cost $6)*
 A really simple Green/Red LED feedback to tell you if your LND node is online
 
 # Hardware needed: 
