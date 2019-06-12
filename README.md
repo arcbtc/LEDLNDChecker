@@ -12,9 +12,9 @@ x4 Jump Leads
 # GPIO Map 
 
 GREEN LED
-+ = GPIO27
-- = GND
+Pos = GPIO27
+Neg = GND
 
 RED LED
-+ = GPIO26
-- = GND
+Pos = GPIO26
+Neg = GND
