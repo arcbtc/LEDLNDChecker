@@ -2,10 +2,10 @@
 A really simple Green/Red LED feedback to tell you if your LND node is online
 
 # Hardware needed: 
-+ESP32
-+Green LED
-+Red LED
-+x4 Jump Leads
++ ESP32
++ Green LED
++ Red LED
++ x4 Jump Leads
 
 # GPIO Map 
 
@@ -13,6 +13,6 @@ A really simple Green/Red LED feedback to tell you if your LND node is online
 Pos = GPIO27*<br>
 Neg = GND
 
-*RED LED**<br>
+*RED LED*<br>
 Pos = GPIO26*<br>
 Neg = GND
