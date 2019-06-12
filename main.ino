@@ -42,7 +42,7 @@ void loop() {
   
   client.setCACert(test_root_ca);
   
-  if (!client.connect(server, 8077))
+  if (!client.connect(server, 8077)) //standard LND rest API port is 8080
   {
     digitalWrite(27, LOW);
     digitalWrite(26, HIGH);
