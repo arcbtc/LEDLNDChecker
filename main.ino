@@ -7,6 +7,7 @@ const char* password = "PASSWORD"; // your network password
 const char*  server = "room77.raspiblitz.com";  // Server URL
 
 const char* test_root_ca = // needs to be in this crazy format
+//To get the certificate, hit an api endpoint in firefox and export certificate
     "-----BEGIN CERTIFICATE-----\n" \
     "MIICBTCCAaqgAwIBAgIQBSMZ9g3niBo1jyzK1DvECDAKBggqhkjOPQQDAjAyMR8w\n" \
     "HQYDVQQKExZsbmQgYXV0b2dlbmVyYXRlZCBjZXJ0MQ8wDQYDVQQDEwZSb29tNzcw\n" \
