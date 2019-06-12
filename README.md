@@ -7,7 +7,7 @@ Green LED
 Red LED
 x4 Jump Leads
 
-## *Project cost = $6*
+## *Project cost $6*
 
 # GPIO Map 
 
